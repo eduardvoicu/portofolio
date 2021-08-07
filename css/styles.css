@@ -75,9 +75,13 @@ section p {
 }
 
 .featuredimage {
-    max-width: 60%;
+    max-width: 45%;
     width: auto;
     height: auto;
+}
+
+.featuredimage:hover {
+    opacity: 70%;
 }
 
 .otherimage {
@@ -86,6 +90,9 @@ section p {
     height: auto;
 }
 
+.otherimage:hover {
+    opacity: 70%;
+}
 .otherproject3 {
     border-right: solid black 7px;-
 }
