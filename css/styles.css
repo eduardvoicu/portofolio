@@ -15,7 +15,6 @@ nav ul {
     border-radius: 25px;
     padding: 13px;
     margin-right: 25px;
-    /* justify-content: flex-end; */
     position: relative;
     list-style-type: none;
     text-transform: capitalize;
@@ -41,12 +40,10 @@ li a {
 
 section h2 {
     display: flex;
-    /* border-right: black solid 5px; */
     width: 150px;
 }
 
 section p {
-    /* border-right: black solid 5px; */
     width: auto;
 }
 
@@ -63,7 +60,6 @@ section p {
 }
 #selfieimage {
     display:flex;
-    /* flex-wrap: wrap; */
     width:10.25%;
     height: 10.25%;
 }
@@ -145,7 +141,6 @@ footer ul {
     border-radius: 25px;
     padding: 13px;
     margin-right: 25px;
-    /* justify-content: flex-end; */
     position: relative;
     list-style-type: none;
     text-transform: capitalize;
@@ -166,13 +161,10 @@ footer {
 #contactbutton:hover {
     opacity:0.75;
     color: black;
-    /* background-color: white; */
-
 } 
 
 .last {
     display: flex;
-    /* flex-wrap: wrap; */
     align-content: center;
     margin-bottom: 20px;
     border: solid black 7px;
@@ -181,7 +173,6 @@ footer {
 .last-1 {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 25px;
-    /* width:200px; */
     color: rgb(43, 43, 43);
     margin: 10px 0px 10px 100px;
     padding-right: 10px;
@@ -191,12 +182,9 @@ footer {
 
 .last-2 {
     justify-content: space-around;
-    /* margin: 10px 0px 10px 0; */
     width: 850px;
     font-family: Arial, Helvetica, sans-serif;
     color: rgb(43, 43, 43);
-    /* border-left: 5px solid rgb(43, 43, 43); */
-    /* padding-left: 40px; */
 } 
 
 
