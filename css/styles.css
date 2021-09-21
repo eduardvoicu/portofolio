@@ -1,6 +1,13 @@
+/* Global CSS */
 * {
     font-family:Arial, Helvetica, sans-serif;
 }
+body {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    color: #5a5a5a;
+  }
+
 /* The logo that is in the same section with the NAV bar. */
 h1 {
     margin-left: 5px;
